@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**NamanJain14101999/NamanJain14101999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**I am full statck developer ** ✨ Angular,Django,Postgreysql ✨ repository because its `README.md` .
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Django RestFrameWork 
+- 🌱 I’m currently learning New Technology which help me to grow
+- 👯 I’m looking to collaborate on any thing related to python and new technology
+<!-- - 🤔 I’m looking for help with  -->
+- 💬 Ask me about Python,django,networking 
+- 📫 How to reach me: https://www.linkedin.com/in/naman-jain-0980b216a/
+- 😄 Pronouns: call ne Namu
+- ⚡ Fun fact: real life doesn't exists we do clone to other repo.
+
