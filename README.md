@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I am full statck developer ** ✨ Angular,Django,Postgreysql ✨ repository because its `README.md` .
+**I am full statck developer ** ✨ Angular,Django,Postgreysql ✨ 
 
 Here are some ideas to get you started:
 
