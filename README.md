@@ -24,3 +24,11 @@ Here are some ideas to get you started:
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NamanJain14101999.NamanJain14101999)
 
+
+
+
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NamanJain14101999&theme=prussian&hide_border=true)](https://git.io/NamanJain14101999)
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanJain14101999&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/NamanJain14101999/github-readme-stats)
+  <br /> -->
