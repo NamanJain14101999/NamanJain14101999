@@ -21,4 +21,4 @@ Here are some ideas to get you started:
  <a href="https://www.linkedin.com/in/naman-jain-0980b216a/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
