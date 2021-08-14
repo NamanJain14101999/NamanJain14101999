@@ -1,15 +1,17 @@
 ### Hi there 👋  I'm Naman😎 <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">.
 
-**I am full statck developer ** ✨ Angular,Django,Postgreysql ✨ 
+**I am full stack developer ** ✨ Angular,Django,Postgreysql ✨ 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Django RestFrameWork 
+- 🔭 I’m currently working on Django RestFrameWork and Angular-MaterialUI 
 - 🌱 I’m currently learning New Technology which help me to grow
 - 👯 I’m looking to collaborate on any thing related to python and new technology
 <!-- - 🤔 I’m looking for help with  -->
 - 💬 Ask me about Python,django,networking 
-- 📫 How to reach me: https://www.linkedin.com/in/naman-jain-0980b216a/
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/naman-jain-0980b216a/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
 - 😄 Pronouns: call me Nanu
 - ⚡ Fun fact: real life doesn't exists we do clone to other repo.
 
@@ -17,9 +19,9 @@ Here are some ideas to get you started:
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanJain14101999&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/NamanJain14101999/github-readme-stats)
 
- <a href="https://www.linkedin.com/in/naman-jain-0980b216a/">
+<!--  <a href="https://www.linkedin.com/in/naman-jain-0980b216a/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
+</a> -->
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NamanJain14101999.NamanJain14101999)
 
