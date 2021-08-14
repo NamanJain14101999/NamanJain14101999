@@ -22,3 +22,5 @@ Here are some ideas to get you started:
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NamanJain14101999.NamanJain14101999)
+
