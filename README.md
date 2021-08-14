@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any thing related to python and new technology
 <!-- - 🤔 I’m looking for help with  -->
 - 💬 Ask me about Python,django,networking 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/naman-jain-0980b216a/">
+- 📫<a href="https://www.linkedin.com/in/naman-jain-0980b216a/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 - 😄 Pronouns: call me Nanu
