@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Naman😎 <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">.
 
-**I am full stack developer ** ✨ Angular,Django,Postgreysql ✨ 
+**I am full stack developer ** ✨ Angular,Django,Postgreysql,React ✨ 
 
 Here are some ideas to get you started:
 
