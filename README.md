@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Django RestFrameWork and Angular-MaterialUI 
+- 🔭 I’m currently working on Django RestFrameWork and React and redux 
 - 🌱 I’m currently learning New Technology which help me to grow
 - 👯 I’m looking to collaborate on any thing related to python and new technology
 <!-- - 🤔 I’m looking for help with  -->
