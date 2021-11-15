@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Naman😎 <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">.
 
-**I am full stack developer ** ✨ Angular,Django,Postgreysql,React ✨ 
+**I am full stack developer ** ✨ Django,Postgreysql,React ✨ 
 
 Here are some ideas to get you started:
 
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning New Technology which help me to grow
 - 👯 I’m looking to collaborate on any thing related to python and new technology
 <!-- - 🤔 I’m looking for help with  -->
-- 💬 Ask me about Python,django,networking 
+- 💬 Ask me about Python,django,networking,webdev. 
 -<a href="https://www.linkedin.com/in/naman-jain-0980b216a/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
