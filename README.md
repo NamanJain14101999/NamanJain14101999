@@ -1,10 +1,10 @@
 ### Hi there 👋  I'm Naman😎 <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">.
 
-**I am full stack developer ** ✨ DOTNET, angular, React, SQL ✨ 
+**I am full stack developer ** ✨ DOTNET, React, SQL ✨ 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ASP web form, SQL. 
+- 🔭 I’m currently working on ASP web form, SQL, React. 
 - 🌱 I’m currently learning New Technology which help me to grow.
 - 👯 I’m looking to collaborate on any thing related to C#, js and new technology
 <!-- - 🤔 I’m looking for help with  -->
