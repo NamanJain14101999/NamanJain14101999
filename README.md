@@ -1,14 +1,14 @@
 ### Hi there 👋  I'm Naman😎 <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">.
 
-**I am full stack developer ** ✨ DOTNET, React, SQL ✨ 
+**I am a Full stack developer who knows frontend more and can code in any backend tech stack, LOL** ✨✨ 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ASP web form, SQL, React. 
-- 🌱 I’m currently learning New Technology which help me to grow.
-- 👯 I’m looking to collaborate on any thing related to C#, js and new technology
+- 🔭 I’m currently, mostly working on, React and  also working on multiple backend stacks like node, and PHP ( Yes PHP still exists 🤪 ). 
+- 🌱 I’m currently, mostly learning New Technology which helps me to grow.
+- 👯 I’m looking to collaborate on anything related to JS and new technology
 <!-- - 🤔 I’m looking for help with  -->
-- 💬 Ask me about C#,SDLC,networking,webdev. 
+- 💬 Ask me about JS, SDLC, and networking. 
 -<a href="https://www.linkedin.com/in/naman-jain-0980b216a/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
